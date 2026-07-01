@@ -1,8 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="Sample Channel",Sample Channel
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="M3U World 4K",BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="M3U World 4K",Jamuna Tv
