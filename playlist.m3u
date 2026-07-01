@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="My TV",My TV
+https://example.com/live/channel.m3u8
