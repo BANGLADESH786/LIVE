@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/ocyTxpw.png" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.top
+https://raw.githubusercontent.com/LS-Station/iptvpulse-news/refs/heads/main/output.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d343332141b06027223111c124013043857431c52361d56385d1c2b277c72201d0e00002c6f534308000700271c5d01436b.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://mms.businesswire.com/media/20250109393255/en/2348228/4/WILLOW_2023_Primary-Stacked.jpg?utm_source=chatgpt.com",Willow
@@ -311,9 +312,6 @@ https://go.skym3u.top/live/3a471/3b1f0d3d404f706d206c221e5216462d29090a101c174b3
 #EXTINF:-1 tvg-id="PTCSimran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ETV🍁",PTC Simran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567c0b46702f252c2708135c196c3759.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-id="PublicMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ETV🍁",Public Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567f004c702f252c2708135c196c3759.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="ETV🍁",Public Music
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d273b3d40525c043631090316401713705e5944537c5f4d7c1c183e31303a21430c410167.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="ETV🍁",Punjabi Hits
@@ -358,10 +356,6 @@ https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b556
 https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567c005a6e711b6f7d0052074c.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="HINDI",B4U Movies
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d2532345d514a43686f03581400061272535d550663534e7a5047723a2d3e3c00085f1d316f545859574d153353495d43271857235c027123293e34044f060270320d0d18020a162b1c5d01436b.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="ETV🍁",Zee Action
-https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567f04457070736f0c5d4f1f472a7a.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="ETV🍁",Zee Anmol TV
-https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567f0643707071690c5d4f1f472a7a.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="ETV🍁",Zee Anmol Cinema
 https://go.skym3u.top/live/3a471/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e567f04447070736e0c5d4f1f472a7a.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="ETV🍁",And TV HD
@@ -445,8 +439,6 @@ https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a3
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f614414344703723734723c0b075c072b30040d0c410a0b3b57481c5b601e41.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESH",SATV
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61440a2c47033024226a655b575c072b30040d0c4113093e4b5c5b452745147e464d.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLADESH",Deshe Bideshe
-https://go.skym3u.top/live/3a471/3b1f0d3d404f706d203d300c0f13103e6c12030f0f11073e5c575e57271d572e5c187026212c3b08031b103a3109094e0a0111291d595c5236135720000067.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESH",Deshi TV
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d203a20050806027126041f090717136d061e5c53274415244510702f3d0c271f04131970320d0d18020a162b1c5d01436b.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="BANGLADESH",Bijoy TV
@@ -481,14 +473,10 @@ https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a3
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441a25521b3127286e31094f01002d2700014e1a11043c59431f40620a48625e1a312d6a32601859.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="BANGLADESH",Star News
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d2b28210e0e04172d321842061e0001311c5e57427c0909261e01296d7568625d4e1d012b3214184e070d013a4a1e5f052653.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="BANGLA MUSIC",Channel 16
-https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441a25521b3127286e650f055c072b30040d0c4117173e515b411b255a187c1c18302c2b713e5e144a.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="MUSICBANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="BANGLA MUSIC",MUSIC BANGLA
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441438401c3c20253134010040446d774f1f151c0604321d405e572a07103e475b32713167.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="BANGLADESH",Rajdhani TV
 https://go.skym3u.top/live/3a471/3b1f0d3d404f706d372b2108001f5a2c2a001e080f11162a445f1c553c0656255f066a6d363e390909131a3621000e0d0b4d086c4708.m3u8?t=9413&s=f2a&id=etud.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="BANGLADESH",Drama 24
-https://go.skym3u.top/live/3a471/3b1f0d3d404f706d3230371e535c15262c0003151a4d06305f1f55453619102840312d23293e7c1913131734314c1a500f524a325d5e5d1827185720000067.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="BANGLADESH",Movie Bangla
 https://go.skym3u.top/live/3a471/3b1f0d3d095a702328293619175c17302f4e010e180a003d535e555a321f0f620b4567726b363d09040a5a32711454.m3u8?t=9413&s=f2a&id=etud.m3u
 #EXTINF:-1 tvg-id="223000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="ISLAMIC",Islamic TV
