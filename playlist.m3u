@@ -1,545 +1,545 @@
 #EXTM3U
 
 # ===== BANGLA =====
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 1. Amar Bangla Digital
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",1. Amar Bangla Digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 2. Bangla TV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",2. Bangla TV
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 3. Bangla Vision
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",3. Bangla Vision
 http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 4. Channel S
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 5. Ekattor TV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",4. Ekattor TV
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 6. Enter10Bangla
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",5. Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 7. JTV BANGLA
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",6. JTV BANGLA
 http://103.67.97.45:81/0.ts
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 8. Maasranga TV
-https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 9. News18 Bangla
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",7. News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 10. News18 Bangla
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",8. News18 Bangla
 https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 11. NTV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",9. NTV
 http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 12. NTV UK
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",10. NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 13. Republic Bangla
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",11. Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 14. Somoy News TV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",12. Somoy News TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 15. STAR BANGLA
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",13. STAR BANGLA
 http://103.151.60.162:2122/play/a0f5/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 16. Sun Bangla HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",14. Sun Bangla HD
 http://103.159.180.34:5001/live/1669.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 17. UPHAR BANGLA
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",15. UPHAR BANGLA
 https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 18. ZEE BANGLA
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",16. ZEE BANGLA
 http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 19. Zee Bangla Sonar
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",17. Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 20. Zee Bangla Sonar
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",18. Zee Bangla Sonar
 http://103.159.180.34:5001/live/3476.m3u8
 
 # ===== HINDI =====
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 21. BH OTT India Fest
-http://103.159.180.34:5001/live/3028.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 22. Colors Cineplex Bollywood
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",19. Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 23. Colors Cineplex HD (1080p)
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",20. Colors Cineplex HD (1080p)
 http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 24. Colors Cineplex Superhit
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",21. Colors Cineplex Superhit
 http://live.balajibroadband.com:3500/live/1450.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 25. Colors HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",22. Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 26. COLORS RISHTEY
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",23. COLORS RISHTEY
 http://103.159.180.34:5001/live/279.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 27. COLORS RISHTEY
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",24. COLORS RISHTEY
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 28. DD India
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",25. DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 29. DD National
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",26. DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 30. DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 31. Music India
-http://103.159.180.34:5001/live/250.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 32. NDTV India
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",27. NDTV India
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 33. Sony Pal
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",28. Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 34. Sony SAB HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",29. Sony SAB HD
 http://202.70.146.135:8000/play/a025/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 35. Star Plus HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",30. Sony WAH
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",31. Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 36. Star Sports 1 Hindi
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 37. zee 24 gonta
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 38. Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 39. Zee Bharat
-https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 40. Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 41. Zee Cinemalu
-http://103.159.180.34:5001/live/413.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 42. Zee Classic
-http://103.159.180.34:5001/live/1691.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 43. Zee Sarthak
-http://103.159.180.34:5001/live/722.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 44. Zee TV HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",32. Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",33. Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",34. MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",35. zee 24 gonta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",36. Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",37. Zee Bharat
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",38. Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",39. Zee Cinemalu
+http://103.159.180.34:5001/live/413.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",40. Zee Classic
+http://103.159.180.34:5001/live/1691.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",41. Zee Sarthak
+http://103.159.180.34:5001/live/722.m3u8
 
-# ===== CARTOON / KIDS =====
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 45. CARTOON NETWORK
+# ===== CARTOON =====
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",42. CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 46. Disney Channel
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",43. Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 47. Disney Channel
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",44. Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 48. Disney Channel
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",45. Disney Channel
 http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 49. Disney International HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",46. Disney International HD
 http://202.70.146.135:8000/play/a04p/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 50. Disney Junior
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",47. Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 51. Epic Kids
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",48. Epic Kids
 http://103.159.180.34:5001/live/3385.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 52. Epic Kids
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",49. Epic Kids
 https://jmp2.uk/stvp-IN800021X7
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 53. Power Kids TV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",50. Power Kids TV
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
 
 # ===== SPORTS =====
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 54. DD Sports
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",51. Star Sports 1 Hindi
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",52. DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 55. SKY SPORTS ACTION
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",53. SKY SPORT MAIN EVENT UHD
+http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384215
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",54. SKY SPORT UHD
+http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384222
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",55. SKY SPORTS ACTION
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9155/index.m3u
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 56. SKY SPORTS CRICKET
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",56. SKY SPORTS CRICKET
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 57. SKY SPORTS F1 UHD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",57. SKY SPORTS F1 UHD
 http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384213
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 58. SKY SPORTS FOOTBALL
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",58. SKY SPORTS FOOTBALL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 59. Star Sports 1 HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",59. Star Sports 1 HD
 http://202.70.146.135:8000/play/a00a/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 60. Star Sports Select 1 HD
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",60. Star Sports Select 1 HD
 http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 61. TNT Sports 1
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",61. TNT Sports 1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2505/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 62. TNT Sports 2
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",62. TNT Sports 2
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2506/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 63. TNT Sports 3
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",63. TNT Sports 3
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6564/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 64. TNT Sports 4
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",64. TNT Sports 4
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/19054/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",65. Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",66. ZIGGO SPORT 1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2560/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",67. ZIGGO SPORT 2
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2561/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",68. ZIGGO SPORT 3
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2559/index.m3u8
 
 # ===== OTHER =====
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 65. &Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 66. &TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 67. 041. Jago News
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 68. 042. NRB HD
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 69. 081. HUM MASALA
-http://38.101.217.46/HumMasala/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 70. 24 Hour Free Movies (720p)
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 71. 24 News HD
-https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 72. 8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 73. 9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 74. 9X Jhakkas
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 75. 9X Tashan
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 76. 9XM
-https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 77. A Plus
-https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 78. Aaj News
-https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 79. Aan TV
-https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 80. Aastha
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 81. Aastha Bhajan
-http://103.159.180.34:5001/live/594.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 82. Abp Ananda
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 83. AJJ ENTERTAINMENT HD
-https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 84. AKASH AATH IN
-http://103.159.180.34:5001/live/698.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 85. Always Funny Videos
-https://jmp2.uk/stvp-CABA3700001DB
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 86. Always Funny Videos
-https://jmp2.uk/stvp-USBA1600001XM
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 87. America's Got Talent
-https://jmp2.uk/stvp-GBBC2300002GG
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 88. America's Got Talent
-https://jmp2.uk/stvp-US3500006VF
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 89. American Idol
-https://jmp2.uk/stvp-GBBC2300001X5
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 90. Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 91. Anmol TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 92. Apex Entertainment
-http://103.159.180.34:5001/live/3231.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 93. Argus News
-https://stream.ottlive.co.in/argus/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 94. Ary News
-https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 95. ARY Q TV
-https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 96. AURLIFE HD
-https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 97. AZAN TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 98. Baiscope TV
-https://live.ekamraott.com/baiscope/baiscope/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 99. BBC Earth
-http://live.balajibroadband.com:3500/live/821.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 100. Bol Entertainment
-https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 101. Bol News
-https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 102. Boogle Bollywood
-http://103.159.180.34:5001/live/962.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 103. CGTN News
-https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 104. Channel 24
-http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 105. CHANNEL 52
-http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 106. CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 107. CNBC TV18 Prime
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 108. CNN
-https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 109. Conan O'Brien TV
-https://jmp2.uk/stvp-GB300001QO
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 110. DAZN 1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2531/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 111. DAZN 2
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2532/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 112. DAZN 3
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2533/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 113. DAZN 4
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2534/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 114. DAZN 5
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2535/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 115. DAZN FAST+
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 116. DD Bharati
-https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 117. Deepto TV
-http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 118. DESHI TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 119. DISCOVERY PAKISTAN
-https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 120. Discovery Turbo
-http://202.70.146.135:8000/play/a050/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 121. DTV USA
-https://cdn.dtvusa.com/dtv/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 122. DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 123. DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 124. Ekamra Bharat Odia
-https://live.ekamraott.com/bharat/bharat/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 125. Ekamra Cinema
-https://live.ekamraott.com/cynema/cynema/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 126. Ekamra Manoranjan
-https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 127. Ekamra Musiq
-https://live.ekamraott.com/musiq/musiq/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 128. Ekamra Nilach Akra
-https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 129. Ekamra Paramatma
-https://live.ekamraott.com/paramatma/paramatma/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 130. Enter TV
-https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 131. Epic Bharat
-https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 132. Epic Music
-https://jmp2.uk/stvp-IN8000196E
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 133. Epic Music Digital (1080p)
-https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 134. EPIC TV
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 135. ETV Cinema HD
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 136. ETV HD
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 137. Express Entertainment
-https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 138. FilmRise Action
-https://jmp2.uk/stvp-CAAJ2700014EE
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 139. FilmRise Anime
-https://jmp2.uk/stvp-US3500004M7
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 140. FilmRise Classic TV
-https://jmp2.uk/stvp-CAAJ2700008QA
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 141. FilmRise Free Movies
-https://jmp2.uk/stvp-CAAJ40000077N
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 142. FilmRise Horror
-https://jmp2.uk/stvp-CA35000044I
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 143. FilmRise True Crime
-https://jmp2.uk/stvp-CAAJ27000079E
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 144. FilmRise Western
-https://jmp2.uk/stvp-CAAJ27000159K
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 145. Fox News
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 146. Fox News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 147. FTV HD
-http://103.159.180.34:5001/live/1598.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 148. Geo Kahani
-https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 149. GNN HD
-https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 150. Green Gold TV
-https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 151. Green Gold TV
-https://jmp2.uk/stvp-IN4000625P
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 152. History TV18
-http://103.159.180.34:5001/live/1471.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 153. HUM SITERY world
-http://38.101.217.46/HumSitaray/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 154. Jatra Ekamra
-https://live.ekamraott.com/jatra/jatra/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 155. Jhankar TV
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 156. JTV CLASSIC
-http://103.67.97.46/0.ts
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 157. Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 158. Kalinga TV
-https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 159. Kanak News
-http://103.159.180.34:5001/live/718.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 160. Kantipur piracy HD
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 161. Kolkata TV
-https://cdn.ottlive.co.in/kolkatatv/tracks-v3a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 162. Korean Drama Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 163. Lionsgate Play
-http://103.159.180.34:5001/live/2327.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 164. LTN FAMILY HD
-https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 165. MAX 1
-http://live.balajibroadband.com:3500/live/3418.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 166. MBC BOLLYWOOD
-http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 167. MNX HD
-http://202.70.146.135:8000/play/a052/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 168. Movie Bang
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 169. Movie Hub
-https://jmp2.uk/stvp-USBA3000041ZP
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 170. Movies Now HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 171. Movies Thriller (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 172. MovieSphere AU (1080p)
-https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 173. MovieSphere UK (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 174. MrBeast
-https://jmp2.uk/stvp-CA3100001IB
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 175. MrBeast
-https://jmp2.uk/stvp-US310000101
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 176. MTV
-https://ma.anixa.tv/clips/stream/mtv/playlist.php
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 177. MTV
-http://99.27.51.147:8080/MTV/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 178. MTV
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 179. MTV
-http://42.118.247.37:9394/stream/74.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 180. MyTime Movie Network (1080p)
-https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 181. MyTime Movie Network (1080p)
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 182. National Geographic HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 183. NEWS 21 TV
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 184. News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 185. News18 Odia
-https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 186. News18 Odia
-https://jmp2.uk/stvp-INBD2500013ID
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 187. NH BollyFlix
-https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 188. NH BollyRaga
-https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 189. One Paschima
-https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 190. PNN
-https://s2.ideationtec.live/Pnn/Pnn.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 191. Quran
-https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 192. Quran
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 193. R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 194. Raj Music Telugu
-https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 195. Raj Pariwar
-http://103.159.180.34:5001/live/533.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 196. Rakuten Top Movies UK (1080p)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 197. Rakuten TV Action Movies UK (1080p)
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 198. Rakuten TV Comedy Movies UK (1080p)
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 199. Rang Rangoli
-https://live.ekamraott.com/rr/rr/video.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 200. Red Bull TV
-http://103.159.180.34:5001/live/2779.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 201. Red Bull TV
-https://jmp2.uk/stvp-ATBD1500003ES
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 202. Red Bull TV
-https://jmp2.uk/stvp-DEBC2300001EU
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 203. Rock TV
-https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 204. Rock TV
-https://jmp2.uk/stvp-ITBC1100011RK
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 205. ROHI TV
-https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 206. Romedy Now
-http://202.70.146.135:8000/play/a05x/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 207. Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 208. SAB ENTERTAINMENT
-https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 209. Sai Ekamra
-https://live.ekamraott.com/da/da/video.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 210. SANANDA TV
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 211. Sansad TV 1
-https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 212. Sansad TV 2 HD
-https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 213. SET ENTERTAINMENT PK
-https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 214. SET HD
-http://202.70.146.135:8000/play/a005/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 215. ShortsTV Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 216. Sidharth Gold
-http://103.159.180.34:5001/live/1957.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 217. SKY SPORT MAIN EVENT UHD
-http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384215
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 218. SKY SPORT UHD
-http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384222
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 219. SNB CINEMA
-http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 220. Sony WAH
-http://live.balajibroadband.com:3500/live/1393.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 221. Star Gold 2 HD
-http://202.70.146.135:8000/play/a04q/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 222. Star Gold 2 SD
-http://66.102.126.10:8000/play/a00g/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 223. Star Gold HD
-http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 224. Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 225. Star Gold Romance
-http://202.70.146.135:8000/play/a044/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 226. STAR GOLD ROMANCE
-http://66.102.126.10:8000/play/a00r/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 227. Star Gold Select HD
-http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 228. Star Gold Select HD
-http://66.102.126.10:8000/play/a01s/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 229. Star Movies HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 230. Star Movies HD
-http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 231. Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 232. Sun Gemini Movies HD
-https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 233. Sun Gemini Music HD
-https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 234. SUNNAH
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 235. SUNNAH
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 236. TBN24
-http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 237. Trace Sport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 238. TSN 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 239. TSN 3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 240. TSN 4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 241. Unknown
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 242. Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 243. Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 244. Vevo Pop
-https://jmp2.uk/stvp-DEBC2100001ZJ
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 245. Vevo Pop
-https://jmp2.uk/stvp-ESBC2100001IU
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 246. Vevo Pop
-https://jmp2.uk/stvp-FRBC2100001YY
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 247. Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 248. Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 249. Vevo Retro
-https://jmp2.uk/stvp-ESBD230000289
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 250. XITE 90s Throwback
-https://jmp2.uk/stvp-CABB2600018T4
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 251. XITE 90s Throwback
-https://jmp2.uk/stvp-USBB3200007AK
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 252. XITE Hits
-https://jmp2.uk/stvp-CABD1200038NZ
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 253. XITE Hits
-https://jmp2.uk/stvp-DEBA2200007V6
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 254. XITE Hits
-https://jmp2.uk/stvp-GBBB3800005QO
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 255. XITE Hits
-https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 256. XITE Just Chill
-https://jmp2.uk/stvp-CABB2600004RZ
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 257. XITE Just Chill
-https://jmp2.uk/stvp-USBB2300003JZ
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 258. XITE Summer
-https://jmp2.uk/stvp-CABD17000043J
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 259. XITE Summer
-https://jmp2.uk/stvp-USBD350003932
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 260. YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 261. ZB Music
-https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 262. ZIGGO SPORT 1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2560/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 263. ZIGGO SPORT 2
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2561/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 264. ZIGGO SPORT 3
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2559/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 265. ZillarBarta News
-https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 266. ZOOM
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v", 267. বিটিভি
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",69. বিটিভি
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",70. Channel 24
+http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",71. BH OTT India Fest
+http://103.159.180.34:5001/live/3028.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",72. Music India
+http://103.159.180.34:5001/live/250.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",73. Raj Music Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",74. &Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",75. &TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",76. 041. Jago News
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",77. 042. NRB HD
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",78. 081. HUM MASALA
+http://38.101.217.46/HumMasala/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",79. 24 Hour Free Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",80. 24 News HD
+https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",81. 8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",82. 9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",83. 9X Jhakkas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",84. 9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",85. 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",86. A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",87. Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",88. Aan TV
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",89. Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",90. Aastha Bhajan
+http://103.159.180.34:5001/live/594.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",91. Abp Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",92. AJJ ENTERTAINMENT HD
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",93. AKASH AATH IN
+http://103.159.180.34:5001/live/698.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",94. Always Funny Videos
+https://jmp2.uk/stvp-CABA3700001DB
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",95. Always Funny Videos
+https://jmp2.uk/stvp-USBA1600001XM
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",96. America's Got Talent
+https://jmp2.uk/stvp-GBBC2300002GG
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",97. America's Got Talent
+https://jmp2.uk/stvp-US3500006VF
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",98. American Idol
+https://jmp2.uk/stvp-GBBC2300001X5
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",99. Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",100. Anmol TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",101. Apex Entertainment
+http://103.159.180.34:5001/live/3231.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",102. Argus News
+https://stream.ottlive.co.in/argus/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",103. Ary News
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",104. ARY Q TV
+https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",105. AURLIFE HD
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",106. AZAN TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",107. Baiscope TV
+https://live.ekamraott.com/baiscope/baiscope/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",108. BBC Earth
+http://live.balajibroadband.com:3500/live/821.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",109. Bol Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",110. Bol News
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",111. CGTN News
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",112. CHANNEL 52
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",113. Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",114. CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",115. CNBC TV18 Prime
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",116. CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",117. Conan O'Brien TV
+https://jmp2.uk/stvp-GB300001QO
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",118. DAZN 1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2531/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",119. DAZN 2
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2532/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",120. DAZN 3
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2533/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",121. DAZN 4
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2534/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",122. DAZN 5
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2535/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",123. DAZN FAST+
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",124. DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",125. DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",126. Deepto TV
+http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",127. DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",128. DISCOVERY PAKISTAN
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",129. Discovery Turbo
+http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",130. DTV USA
+https://cdn.dtvusa.com/dtv/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",131. DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",132. DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",133. Ekamra Bharat Odia
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",134. Ekamra Cinema
+https://live.ekamraott.com/cynema/cynema/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",135. Ekamra Manoranjan
+https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",136. Ekamra Musiq
+https://live.ekamraott.com/musiq/musiq/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",137. Ekamra Nilach Akra
+https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",138. Ekamra Paramatma
+https://live.ekamraott.com/paramatma/paramatma/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",139. Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",140. Epic Bharat
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",141. Epic Music
+https://jmp2.uk/stvp-IN8000196E
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",142. Epic Music Digital (1080p)
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",143. EPIC TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",144. ETV Cinema HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",145. ETV HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",146. Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",147. FilmRise Action
+https://jmp2.uk/stvp-CAAJ2700014EE
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",148. FilmRise Anime
+https://jmp2.uk/stvp-US3500004M7
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",149. FilmRise Classic TV
+https://jmp2.uk/stvp-CAAJ2700008QA
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",150. FilmRise Free Movies
+https://jmp2.uk/stvp-CAAJ40000077N
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",151. FilmRise Horror
+https://jmp2.uk/stvp-CA35000044I
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",152. FilmRise True Crime
+https://jmp2.uk/stvp-CAAJ27000079E
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",153. FilmRise Western
+https://jmp2.uk/stvp-CAAJ27000159K
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",154. Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",155. Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",156. FTV HD
+http://103.159.180.34:5001/live/1598.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",157. Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",158. GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",159. Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",160. Green Gold TV
+https://jmp2.uk/stvp-IN4000625P
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",161. History TV18
+http://103.159.180.34:5001/live/1471.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",162. HUM SITERY world
+http://38.101.217.46/HumSitaray/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",163. Jatra Ekamra
+https://live.ekamraott.com/jatra/jatra/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",164. Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",165. JTV CLASSIC
+http://103.67.97.46/0.ts
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",166. Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",167. Kalinga TV
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",168. Kanak News
+http://103.159.180.34:5001/live/718.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",169. Kantipur piracy HD
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",170. Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",171. Korean Drama Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",172. Lionsgate Play
+http://103.159.180.34:5001/live/2327.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",173. LTN FAMILY HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",174. Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",175. MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",176. MNX HD
+http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",177. Movie Bang
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",178. Movie Hub
+https://jmp2.uk/stvp-USBA3000041ZP
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",179. Movies Now HD
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",180. Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",181. MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",182. MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",183. MrBeast
+https://jmp2.uk/stvp-CA3100001IB
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",184. MrBeast
+https://jmp2.uk/stvp-US310000101
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",185. MTV
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",186. MTV
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",187. MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",188. MTV
+http://42.118.247.37:9394/stream/74.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",189. MyTime Movie Network (1080p)
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",190. MyTime Movie Network (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",191. National Geographic HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",192. NEWS 21 TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",193. News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",194. News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",195. News18 Odia
+https://jmp2.uk/stvp-INBD2500013ID
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",196. NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",197. NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",198. One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",199. PNN
+https://s2.ideationtec.live/Pnn/Pnn.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",200. Quran
+https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",201. Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",202. R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",203. Raj Pariwar
+http://103.159.180.34:5001/live/533.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",204. Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",205. Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",206. Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",207. Rang Rangoli
+https://live.ekamraott.com/rr/rr/video.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",208. Red Bull TV
+http://103.159.180.34:5001/live/2779.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",209. Red Bull TV
+https://jmp2.uk/stvp-ATBD1500003ES
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",210. Red Bull TV
+https://jmp2.uk/stvp-DEBC2300001EU
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",211. Rock TV
+https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",212. Rock TV
+https://jmp2.uk/stvp-ITBC1100011RK
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",213. ROHI TV
+https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",214. Romedy Now
+http://202.70.146.135:8000/play/a05x/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",215. Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",216. SAB ENTERTAINMENT
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",217. Sai Ekamra
+https://live.ekamraott.com/da/da/video.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",218. SANANDA TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",219. Sansad TV 1
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",220. Sansad TV 2 HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",221. SET ENTERTAINMENT PK
+https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",222. SET HD
+http://202.70.146.135:8000/play/a005/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",223. ShortsTV Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",224. Sidharth Gold
+http://103.159.180.34:5001/live/1957.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",225. SNB CINEMA
+http://103.182.83.246/hls/snbcinema.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",226. Star Gold 2 HD
+http://202.70.146.135:8000/play/a04q/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",227. Star Gold 2 SD
+http://66.102.126.10:8000/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",228. Star Gold HD
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",229. Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",230. Star Gold Romance
+http://202.70.146.135:8000/play/a044/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",231. STAR GOLD ROMANCE
+http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",232. Star Gold Select HD
+http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",233. Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",234. Star Movies HD
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",235. Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",236. Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",237. Sun Gemini Movies HD
+https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",238. Sun Gemini Music HD
+https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",239. SUNNAH
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",240. SUNNAH
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",241. TBN24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",242. TSN 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",243. TSN 3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",244. TSN 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",245. Unknown
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",246. Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",247. Vevo '90s & '00s
+https://jmp2.uk/stvp-ITBC210000200
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",248. Vevo Pop
+https://jmp2.uk/stvp-DEBC2100001ZJ
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",249. Vevo Pop
+https://jmp2.uk/stvp-ESBC2100001IU
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",250. Vevo Pop
+https://jmp2.uk/stvp-FRBC2100001YY
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",251. Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",252. Vevo Pop
+https://jmp2.uk/stvp-ITBC2100001G9
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",253. Vevo Retro
+https://jmp2.uk/stvp-ESBD230000289
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",254. XITE 90s Throwback
+https://jmp2.uk/stvp-CABB2600018T4
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",255. XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",256. XITE Hits
+https://jmp2.uk/stvp-CABD1200038NZ
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",257. XITE Hits
+https://jmp2.uk/stvp-DEBA2200007V6
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",258. XITE Hits
+https://jmp2.uk/stvp-GBBB3800005QO
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",259. XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",260. XITE Just Chill
+https://jmp2.uk/stvp-CABB2600004RZ
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",261. XITE Just Chill
+https://jmp2.uk/stvp-USBB2300003JZ
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",262. XITE Summer
+https://jmp2.uk/stvp-CABD17000043J
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",263. XITE Summer
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",264. YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",265. ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",266. ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1  tvg-logo="https://tinyurl.com/mr2dec8v",267. ZOOM
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
